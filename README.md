@@ -1,18 +1,18 @@
-gray
-====
+GreyJS
+======
 
-Make an image gray in all browsers. [Demo](http://work.karlhorky.com/gray/).
+Cross-browser grey images [Demo](http://www.kriest.de/greyjs/)
 
-Support:
+Support
 
-* IE 6-9
-* IE 10-11 (inline SVG via JavaScript)
-* Firefox 10+, Firefox on Android
-* Chrome 19+, Chrome for Android 25+
-* Android Browser 4.4+
-* Safari 6+, Safari iOS 6+
-* Opera 15+, Opera Mobile 16+
-* BlackBerry Browser 10+
+* IE 10+
+* Firefox
+* Chrome
+* Safari
+* Opera
+
+
+
 
 Installation
 ------------
